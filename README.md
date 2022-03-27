@@ -1,1 +1,3 @@
-TinDog Starting Files
+FitnessTrainer
+
+Mobile fitness app landing page
